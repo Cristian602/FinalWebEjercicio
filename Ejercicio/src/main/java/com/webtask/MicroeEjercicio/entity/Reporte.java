@@ -6,7 +6,12 @@ public class Reporte {
     private String codigoReporte;
 
     private Long idPersona;
-    private Long presion;
+
+    //se recupera de aracely
+    private Long presionDiastolica;
+    private Long presionAsistolica;
+
+    //eso medimos nosotros
     private Long frecCardiaca;
 
     private Long duracion;
