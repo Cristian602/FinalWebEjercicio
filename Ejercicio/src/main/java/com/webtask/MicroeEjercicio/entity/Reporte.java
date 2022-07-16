@@ -13,10 +13,10 @@ public class Reporte {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @Column(name = "NUMBERREPORTE")
+    @Column(name = "number_reporte")
     private String numberReporte;
 
-    @Column(name = "USERID")
+    @Column(name = "user_id")
     private Long userId;
 
     //se recupera de aracely
