@@ -13,7 +13,7 @@ public class Reporte {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @Column(name = "number_invoice")
+    @Column(name = "number_reporte")
     private String codigoReporte;
 
     @Column(name = "user_id")
