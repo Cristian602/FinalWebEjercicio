@@ -1,10 +1,10 @@
-package academy.digitallab.store.registry;
+package com.example.webtask.MicroeEjercicio;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RegistryServiceApplicationTests {
+class RegistryApplicationTests {
 
 	@Test
 	void contextLoads() {
