@@ -1,2 +1,2 @@
-INSERT INTO tlb_reportes (id, codigo, userId) VALUES(1L, '0001', 1);
+INSERT INTO tlb_reportes (id,NUMBERREPORTE,USERID) VALUES (1L,'001',1.0);
 
