@@ -38,6 +38,7 @@ public class FrecuenciaServiceImpl implements FrecuenciaService{
 
     @Override
     public FrecuenciaCardiaca calcularAlgo(Long id, Double quantity) {
+        
         return null;
     }
 }
